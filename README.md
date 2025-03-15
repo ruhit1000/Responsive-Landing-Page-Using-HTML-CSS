@@ -28,7 +28,7 @@ In this challenge, I created a recipe page that displays a list of ingredients a
 ### Links
 
 - Solution URL: [Add solution URL here](#)
-- Live Site URL: [Add live site URL here](#)
+- Live Site URL: [(https://ruhit1000.github.io/Responsive-Landing-Page-Using-HTML-CSS/)](#)
 
 ### My Process
 
